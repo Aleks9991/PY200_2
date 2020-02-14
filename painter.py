@@ -63,3 +63,4 @@ if __name__ == '__main__':
 
     figure_widget.show()
     sys.exit(app.exec_())
+    
